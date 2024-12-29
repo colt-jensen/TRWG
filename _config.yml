@@ -14,7 +14,7 @@ name                     : &name "TRWG"
 description              : &description "TRWG explores tribal and non-tribal intergovernmental relations. We are a working group with ASPA-SIAM."
 url                      : https://trwg.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "colt-jensen/trwg.github.io"
+repository               : "colt-jensen/trwg"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

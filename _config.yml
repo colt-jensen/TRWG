@@ -22,7 +22,7 @@ repository               : "colt-jensen/trwg"
 author:
   # Biographic information
   avatar           : "images/TRWG-Circle.png"
-  name             : "TRWG"
+  name             : "TRWG" 
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
